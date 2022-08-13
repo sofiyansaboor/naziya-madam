@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+digiperform.com	TRUE	/	FALSE	1999999999	pix_close_banner	Banner-1
+developers.google.com	TRUE	/	FALSE	1999999999	_ga_devsite	GA1.3.177798139.1660380455
+.www.demandjump.com	TRUE	/	FALSE	1999999999	__cf_bm	hUK5wUzLv8u_fdV8qALQpkfYwHlAuLmqbQ8W6gwbjSg-1660381524-0-Ab5TRfQHLNb3i3zmLw4hOLt0UPDw90N4Wips0Xw9rB7KwUH/OTZp0/PiqecQ59vzeQSk2HYIxf2PWFJ48R7latw=
+.www.demandjump.com	TRUE	/	FALSE	1999999999	__cfruid	33085ae9faaad72c5955b5fa22742193c1ba9647-1660381524
+www.demandjump.com	TRUE	/	FALSE	1999999999	SameSite	None
+
